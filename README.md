@@ -1,4 +1,4 @@
-# 🧾 Script: dividir_excel_por_columna
+# 🧾 Divisor_excel_por_columna
 
 Este script permite dividir un archivo de Excel (.xlsx) en múltiples archivos, agrupando los datos según una columna específica.
 
@@ -6,7 +6,7 @@ Este script permite dividir un archivo de Excel (.xlsx) en múltiples archivos, 
 
 ## 📌 Descripción
 
-Lee un archivo de Excel, agrupa los datos por la columna indicada y genera un archivo nuevo por cada grupo detectado. Es ideal para generar reportes individuales, separar datos por cliente, departamento, etc.
+El script tiene como objetivo leer un archivo de Excel, agrupar los datos en función de una columna específica, y generar archivos separados por cada grupo encontrado. Es útil para tareas de segmentación de datos y distribución automatizada de reportes por cliente, categoría, grupo, etc.
 
 ---
 
