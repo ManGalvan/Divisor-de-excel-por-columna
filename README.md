@@ -1,4 +1,4 @@
-# 🧾 Script: dividir_excel_por_columna
+# 🧾 Divisor_excel_por_columna
 
 Este script permite dividir un archivo de Excel (.xlsx) en múltiples archivos, agrupando los datos según una columna específica.
 
