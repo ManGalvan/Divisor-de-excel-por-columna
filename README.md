@@ -28,7 +28,7 @@ pip install pandas openpyxl
 ## 🧠 Uso
 
 ```python
-from script import dividir_excel_por_columna
+from main import dividir_excel_por_columna
 
 resultado = dividir_excel_por_columna("clientes.xlsx", "Cliente")
 
